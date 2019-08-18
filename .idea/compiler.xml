@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="JavaRunPro_main" target="1.8" />
-      <module name="JavaRunPro_test" target="1.8" />
+      <module name="JavaDoc_main" target="1.8" />
+      <module name="JavaDoc_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

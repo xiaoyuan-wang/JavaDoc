@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaRunPro.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaRunPro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaRunPro_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaRunPro_main.iml" group="JavaRunPro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDoc.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDoc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDoc_main.iml" group="JavaDoc" />
     </modules>
   </component>
 </project>
